@@ -8,6 +8,9 @@
 - 🌱 I’m currently focussing on **DSA**.
 - 👨‍💻 All of my projects are available at (https://github.com/Abhishek526-star?tab=repositories)
 - 📫 You can contact me at **abhishekkumar63871@gmail.com**
+
+  <img alt="GIF" src="https://github.com/Abhishek526-star/Abhishek526-star/blob/main/hadder.gif" width="500"/> 
+
  <hr/>
 
 
