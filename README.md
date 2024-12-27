@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek526-star&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek526-star" /> </p>
+
+
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student currently in my second year at Madan Mohan Malaviya University of Technology, Gorakhpur</h3>
 
 - 🌱 I’m currently focussing on **DSA**.
@@ -7,8 +10,6 @@
 - 📫 You can contact me at **abhishekkumar63871@gmail.com**
  <hr/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek526-star&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek526-star" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek526-star" alt="abhishek526-star" /></a> </p>
 
@@ -44,8 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek526-star&" alt="abhishek526-star" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek526-star&show_icons=true&locale=en&layout=compact" alt="abhishek526-star" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek526-star&show_icons=true&locale=en" alt="abhishek526-star" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek526-star&" alt="abhishek526-star" /></p>
