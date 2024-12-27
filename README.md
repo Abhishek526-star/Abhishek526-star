@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student currently in my second year at Madan Mohan Malaviya University of Technology, Gorakhpur</h3>
 
 - 🌱 I’m currently focussing on **DSA**.
 - 👨‍💻 All of my projects are available at (https://github.com/Abhishek526-star?tab=repositories)
-
 - 📫 You can contact me at **abhishekkumar63871@gmail.com**
+ <hr/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek526-star&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek526-star" /> </p>
 
@@ -22,9 +24,26 @@
 <a href="https://www.leetcode.com/abhishek_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_2k4" height="30" width="40" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/abhishek_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek_2k4" height="30" width="40" /></a>&nbsp
 </p>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,c,cpp,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman,tailwind" />
+  </a>
+         
+</p>
+<hr/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek526-star&show_icons=true&locale=en&layout=compact" alt="abhishek526-star" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek526-star&show_icons=true&locale=en" alt="abhishek526-star" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek526-star&" alt="abhishek526-star" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek526-star&show_icons=true&locale=en&layout=compact" alt="abhishek526-star" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek526-star&show_icons=true&locale=en" alt="abhishek526-star" /></p>
