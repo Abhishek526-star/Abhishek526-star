@@ -31,6 +31,7 @@
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-521446294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-521446294/" height="30" width="40" /></a> &nbsp
 <a href="https://fb.com/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek kumar" height="30" width="40" /></a> &nbsp
+<a href="https://www.instagram.com/abkumar4068/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="abhishek kumar" height="30" width="40" /></a> &nbsp
 </p>
 <hr/>
 
