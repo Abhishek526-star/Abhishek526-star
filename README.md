@@ -18,18 +18,21 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Platforms:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-521446294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-521446294/" height="30" width="40" /></a> &nbsp
-<a href="https://fb.com/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek kumar" height="30" width="40" /></a> &nbsp
-<a href="https://www.codechef.com/users/abhishek4522" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek4522" height="30" width="40" /></a>&nbsp
+<a href="https://www.codechef.com/users/abhishek4522" target="blank"><img align="center" src="https://s.yimg.com/fz/api/res/1.2/wHBzgbB_Igin8RS5Ox8jjg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/13fe392a-2c17-3620-9f4d-89338fcbdffe/t_500x300" alt="abhishek4522" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/@abhishekkumar632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekkumar632" height="30" width="40" /></a>&nbsp
 <a href="https://codeforces.com/profile/abhishek_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhishek_2k4" height="30" width="40" /></a>&nbsp
 <a href="https://www.leetcode.com/abhishek_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_2k4" height="30" width="40" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/abhishek_2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek_2k4" height="30" width="40" /></a>&nbsp
 </p>
 <hr/>
-
+<h3 align="left"> Connect me : </h3>
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-521446294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-521446294/" height="30" width="40" /></a> &nbsp
+<a href="https://fb.com/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek kumar" height="30" width="40" /></a> &nbsp
+</p>
+<hr/>
 
 ### Skills
 <p align="center">
