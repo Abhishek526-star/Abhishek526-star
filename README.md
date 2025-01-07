@@ -50,6 +50,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek526-star&show_icons=true&locale=en" alt="abhishek526-star" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek526-star&" alt="abhishek526-star" /></p>
 
 
